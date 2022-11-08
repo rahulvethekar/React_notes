@@ -1,0 +1,26 @@
+*{
+  margin: 0px auto;
+  box-sizing: border-box;
+}
+.main{
+  width: 95%;
+}
+.menu ul{
+  padding: 0px;
+  margin: 0px;
+  list-style: none;
+}
+.menu ul li{display: inline-block;}
+.menu li a{
+  display: block;
+  padding: 10px 15px;
+  color:brown;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  font-size: 20px;
+}
+.mytable{
+  width: 100%;
+  border: 1px solid black;
+}
